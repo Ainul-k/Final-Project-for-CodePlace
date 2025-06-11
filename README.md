@@ -2,7 +2,7 @@ Waveforms in Motion: SHM in Real-Time
 
 A real-time visualization of Simple Harmonic Motion (SHM) waveforms with interactive controls.
 
-(Optional: Add a visual preview)
+
 Features
 
     Real-time rendering of SHM waveforms (sine, cosine, damped oscillations)
@@ -13,8 +13,8 @@ Features
 
     Export waveform data as CSV/JSON
 
-    Built with [Python + Matplotlib] / [JavaScript + p5.js] (specify your tech stack)
-
+    Built with [Python + Matplotlib] 
+    
 Installation
 Python Version
 bash
@@ -23,7 +23,6 @@ git clone https://github.com/your-username/waveforms-in-motion.git
 cd waveforms-in-motion
 pip install -r requirements.txt  # numpy, matplotlib, etc.
 
-JavaScript Version
 bash
 
 git clone https://github.com/your-username/waveforms-in-motion.git
@@ -59,7 +58,4 @@ Contributing
 
     Open a Pull Request
 
-License
-
-MIT
 
